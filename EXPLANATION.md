@@ -1,4 +1,4 @@
-# LearnLynk Technical Assessment - Explanation
+ - Explanation
 
 ## Section 1: Database Schema (backend.sql)
 
@@ -140,4 +140,5 @@ Organization 1 (tenant_id: abc-123)
 
  Users from Org 1 CANNOT see any data from Org 2  
  Complete data isolation between organizations
+
 
